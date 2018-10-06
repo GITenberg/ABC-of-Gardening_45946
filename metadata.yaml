@@ -28,5 +28,6 @@ series_note: Harper's A-B-C series
 subjects:
 - !lcc 'SB'
 - !lcsh 'Gardening'
+- GITenberg
 title: A-B-C of Gardening
 url: http://www.gutenberg.org/ebooks/45946
